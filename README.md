@@ -1,2 +1,2 @@
 # HoriseonIntV2
-Optimized Horiseon user interface
+This is the Optimized Horiseon user interface
